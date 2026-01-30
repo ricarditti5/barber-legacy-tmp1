@@ -7,6 +7,11 @@ function App() {
   const [load, setLoad] = useState(false);
   return (
     <>
+      <img 
+        src="/barberLogo.svg"
+        alt="Barbearia Legacy"
+        className='w-50 h-50'
+        />
       <HeroSec   />
     </>
   )
