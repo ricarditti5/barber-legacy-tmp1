@@ -1,6 +1,6 @@
 import {useState} from 'react'
 
-export default function services(){
+export default function Services(){
     return(
         <>
         About services

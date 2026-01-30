@@ -1,6 +1,6 @@
 import {useState} from 'react'
 
-export default function depointments(){
+export default function Depointments(){
     return(
         <>
         About depointments
